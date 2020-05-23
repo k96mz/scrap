@@ -27,6 +27,7 @@ header {
   padding: 60px 0 100px 0;
   color: rgba(50, 50, 50, 0.9);
   height:1700px;
+  width: 100%;
 }
 
 /*.content-image {

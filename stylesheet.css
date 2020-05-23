@@ -2,7 +2,7 @@
 }
 
 header {
-  height: 50px;
+  height: 20px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
   position: fixed;
@@ -11,7 +11,7 @@ header {
 }
 
 .logo {
-  height: 50px;
+  height: 20px;
 }
 
 .container {

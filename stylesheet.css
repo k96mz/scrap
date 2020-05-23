@@ -16,7 +16,7 @@ header {
 
 .container {
   max-width: 1170px;
-  width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -45,7 +45,7 @@ header {
 
 .participant {
   float:left;
-  width: 50%;
+  width: 16.666666%;
   height: 250px;
 }
 

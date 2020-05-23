@@ -1,0 +1,8 @@
+@media all and (max-width: 670px) {
+  .participant {
+    width: 33.333%;
+  }
+
+  .top-wrapper title {
+    color: blue;
+  }
